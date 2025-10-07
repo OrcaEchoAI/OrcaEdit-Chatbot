@@ -28,14 +28,3 @@
 
 ### 📬 Contact
 For any questions, feedback, or privacy concerns, please email **support@orcaecho.ai**.
-
----
-
-✅ **Why this works**
-- Focused specifically on **Google Slides**, aligning with your current add-on scope.  
-- Uses your **product name “Orcarina”** consistently throughout.  
-- Includes clear data handling, model usage, and retention language — all matching Google’s Workspace Marketplace and OAuth verification expectations.  
-
----
-
-Would you like me to polish your **terms.md** next so it also fits the Orcarina + Slides-only framing?
