@@ -36,6 +36,8 @@ These Terms govern your use of **Orcarina**, a Google Slides add-on that provide
 - We are not liable for any direct or indirect damages arising from the use or inability to use the add-on or AI-generated outputs.
 
 ---
+[← Back to Home](./index.md) • [View Privacy Policy](./privacy.md)
+
 
 ### 📬 Contact
 For questions or concerns regarding these Terms, please contact us at **support@orcaecho.ai**.
