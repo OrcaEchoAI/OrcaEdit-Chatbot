@@ -1,22 +1,38 @@
-# OrcaEdit Chatbot (Orcarina)
+<p align="center">
+  <img src="https://orcaechoai.github.io/OrcaEdit-Chatbot/assets/Logo%20dark%20blue.png" 
+       alt="Orcarina logo" width="120" style="border-radius:12px;"><br/>
+</p>
 
-**OrcaEdit Chatbot** is a Google Drive add-on that brings an AI assistant named **Orcarina** directly into Google Docs, Sheets, and Slides.  
+# Orcarina
 
-### ✨ Features
-- Open a chat panel while working in Docs, Sheets, or Slides  
-- Chat with **Orcarina** to brainstorm ideas, draft text, or ask questions  
-- Lightweight and easy to use — no setup required  
+**Orcarina** is a Google Slides add-on that brings an AI-powered assistant directly into your slide-creation workflow.  
+
+With Orcarina, you can stay in the flow of your presentation while getting instant help brainstorming ideas, refining slide text, and enhancing clarity — all within Google Slides.
+
+---
+
+### ✨ Key Features
+- Open a side chat panel while editing in **Google Slides**  
+- Ask **Orcarina** to suggest titles, talking points, or slide summaries  
+- Generate creative phrasing or bullet points instantly  
+- Lightweight, privacy-first design — no complicated setup required  
+
+---
 
 ### 🔒 Privacy by Design
-- Orcarina never directly edits or modifies your Docs, Slides, or Sheets  
+- Orcarina does **not** directly edit or modify your Slides  
 - No Google Drive or Docs API permissions are requested  
-- Your interactions remain between you and the chatbot  
+- Your conversations stay between you and Orcarina — nothing is shared externally  
 
-### 📄 About this project
-This page serves as the official homepage for the OrcaEdit Chatbot listing on the [Google Workspace Marketplace](https://workspace.google.com/marketplace/).  
+---
+
+### 📄 About
+This page serves as the official homepage for the **Orcarina – AI Assistant for Google Slides** listing on the [Google Workspace Marketplace](https://workspace.google.com/marketplace/).  
 
 - [Privacy Policy](./privacy.md)  
 - [Terms of Service](./terms.md)  
 
+---
+
 ### 📬 Contact
-For questions or support, email **support@orcaecho.ai**
+For questions, feedback, or support, please email **support@orcaecho.ai**.
