@@ -25,6 +25,10 @@
 - Logs used for short-term debugging are automatically deleted after limited retention consistent with standard security practices.  
 
 ---
+---
+
+[← Back to Home](./index.md) • [View Terms of Service](./terms.md)
+
 
 ### 📬 Contact
 For any questions, feedback, or privacy concerns, please email **support@orcaecho.ai**.
