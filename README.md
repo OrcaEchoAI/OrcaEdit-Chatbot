@@ -1,21 +1,39 @@
-# OrcaEdit Chatbot (Orcarina)
+<p align="center">
+  <img src="https://orcaechoai.github.io/OrcaEdit-Chatbot/assets/Logo%20dark%20blue.png" 
+       alt="Orcarina logo" width="120" style="border-radius:12px;"><br/>
+</p>
 
-**OrcaEdit Chatbot** is a Google Drive add-on that brings an AI assistant named **Orcarina** directly into Google Docs, Sheets, and Slides.  
+# Orcarina – AI Assistant for Google Slides
 
-### ✨ What it does
-- Opens a chat panel in Google Drive apps (Docs, Sheets, Slides)  
-- Lets you chat with **Orcarina** to brainstorm ideas, draft text, or ask questions while you work  
+**Orcarina** is a Google Slides add-on that brings an AI-powered assistant directly into your slide-creation workflow. Stay in the flow while getting instant help brainstorming ideas, refining slide text, and enhancing clarity — all within Google Slides.
 
-### 🚫 What it does not do
-- It does not directly edit or modify your Docs, Slides, or Sheets  
-- It does not request Google Drive or Docs API permissions (no sensitive scopes)  
+---
 
-### 📄 Project purpose
-This repo hosts the landing page, privacy policy, and terms of service required for the [Google Workspace Marketplace](https://workspace.google.com/marketplace/) listing.  
+### ✨ Key Features
+- Open a side chat panel while editing in **Google Slides**
+- Ask **Orcarina** to suggest titles, talking points, or slide summaries
+- Generate creative phrasing or bullet points instantly
+- Lightweight, privacy-first design — no complicated setup required
+
+---
+
+### 🔒 Privacy by Design
+- Orcarina does **not** access, read, or modify the content of your Slides
+- No Google Drive/Docs/Sheets API permissions are requested (no sensitive scopes)
+- Messages are processed securely via **Google Gemini** to generate responses
+
+---
+
+### 📄 About This Repository
+This repository hosts the public landing page and policy documents used for the Google Workspace Marketplace listing.
 
 - [Homepage](./index.md)  
 - [Privacy Policy](./privacy.md)  
 - [Terms of Service](./terms.md)  
 
+> Note: This repo is for the public site and documents only; it does not contain the add-on’s application code.
+
+---
+
 ### 📬 Contact
-For questions or support, email us at **support@orcaecho.ai**  
+Questions or support: **support@orcaecho.ai**
