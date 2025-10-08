@@ -1,11 +1,11 @@
-**Orcarina** is a Google Slides add-on that brings an AI-powered assistant directly into your slide-creation workflow.  
+**Orcarina** is a Google Slides™ add-on that brings an AI-powered assistant directly into your slide-creation workflow.  
 
-With Orcarina, you can stay in the flow of your presentation while getting instant help brainstorming ideas, refining slide text, and enhancing clarity — all within Google Slides.
+With Orcarina, you can stay in the flow of your presentation while getting instant help brainstorming ideas, refining slide text, and enhancing clarity — all within Google Slides™.
 
 ---
 
 ### ✨ Key Features
-- Open a side chat panel while editing in **Google Slides**  
+- Open a side chat panel while editing in **Google Slides™**  
 - Ask **Orcarina** to suggest titles, talking points, or slide summaries  
 - Generate creative phrasing or bullet points instantly  
 - Lightweight, privacy-first design — no complicated setup required  
@@ -14,13 +14,13 @@ With Orcarina, you can stay in the flow of your presentation while getting insta
 
 ### 🔒 Privacy by Design
 - Orcarina does **not** directly edit or modify your Slides  
-- No Google Drive or Docs API permissions are requested  
+- No Google Drive™ or Docs™ API permissions are requested  
 - Your conversations stay between you and Orcarina — nothing is shared externally  
 
 ---
 
 ### 📄 About
-This page serves as the official homepage for the **Orcarina – AI Assistant for Google Slides** listing on the [Google Workspace Marketplace](https://workspace.google.com/marketplace/).  
+This page serves as the official homepage for the **Orcarina – AI Assistant for Google Slides™** listing on the [Google Workspace Marketplace™](https://workspace.google.com/marketplace/).  
 
 - [Privacy Policy](./privacy.md)  
 - [Terms of Service](./terms.md)  
@@ -28,4 +28,9 @@ This page serves as the official homepage for the **Orcarina – AI Assistant fo
 ---
 
 ### 📬 Contact
-For questions, feedback, or support, please email **support@orcaecho.ai**.
+For questions, feedback, or support, please email **support@orcaecho.ai**.  
+
+---
+
+### ™ Trademark Attribution
+Google Slides™, Google Drive™, Google Docs™, and Google Workspace Marketplace™ are trademarks of Google LLC.
