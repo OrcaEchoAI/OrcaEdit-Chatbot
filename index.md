@@ -14,7 +14,8 @@ With Orcarina, you can stay in the flow of your presentation while getting insta
 
 ### 🔒 Privacy by Design
 - Orcarina does **not** directly edit or modify your Slides  
-- No Google Drive™ or Docs™ API permissions are requested  
+- Orcarina uses a limited Google Drive™ file scope solely to meet Google Workspace Marketplace™ integration requirements.
+It may read basic metadata of the presentation you explicitly open with the add-on to confirm context; it never reads or stores slide content.
 - Your conversations stay between you and Orcarina — nothing is shared externally  
 
 ---
