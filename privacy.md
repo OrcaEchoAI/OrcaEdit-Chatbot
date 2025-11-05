@@ -11,6 +11,7 @@ Orcarina respects your privacy and limits all data access to what’s strictly n
 | Scope | Purpose |
 |-------|----------|
 | `https://www.googleapis.com/auth/script.external_request` | Allows the add-on to securely send HTTPS requests to OrcaEcho’s backend (e.g., `orcaecho-engine` API) to process AI responses. |
+| `https://www.googleapis.com/auth/script.container.ui` | Enables the add-on to create and display custom user interfaces such as chatboxes, sidebars, and dialogs directly within Google Slides™. This scope is required for interactive in-app communication between the user and the AI assistant. |
 | `https://www.googleapis.com/auth/drive.file` | Grants the add-on permission to view and manage *only the specific files* you open or create using Orcarina. It cannot access any other files in your Google Drive™. |
 | `https://www.googleapis.com/auth/presentations.currentonly` | Lets the add-on read and modify the *currently open presentation only* to analyze or generate slide content. |
 | `https://www.googleapis.com/auth/script.locale` | Reads your language and locale settings to adapt the add-on’s interface. |
